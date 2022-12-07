@@ -1,0 +1,1 @@
+PL/SQL Engine cannot do any DML or DDL operations. It passes these operations to SQL Engine.
