@@ -1,1 +1,3 @@
 PL/SQL Engine cannot do any DML or DDL operations. It passes these operations to SQL Engine.
+%TYPE attribute gets the datatype of the referenced column or value & assigns that datatype to the declared variable.
+The maximum length of the variable name can be 30 characters.
